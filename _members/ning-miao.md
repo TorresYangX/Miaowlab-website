@@ -8,6 +8,9 @@ affiliation: City University of Hong Kong
 #   - J Smith
 links:
   home-page: https://www.ningmiao.space/
+  email: ningmiao@cityu.edu.hk
+  google-scholar: EODL2AIAAAAJ
+  github: NingMiao
   # orcid: 0000-0001-8713-9213
 ---
 
