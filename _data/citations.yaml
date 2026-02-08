@@ -249,8 +249,8 @@
   date: '2026-01-25'
   link: https://arxiv.org/abs/2601.04537
   buttons:
-  - text: Code
-    icon: fa-github
+  - type: source
+    text: Code
     link: https://github.com/Miaow-Lab/RLVR-Linearity
   image: images/publication/not all steps are informative.png
   plugin: sources.py
