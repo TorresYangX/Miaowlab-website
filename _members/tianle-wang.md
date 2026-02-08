@@ -1,6 +1,6 @@
 ---
 name: Tianle Wang
-image: images/wangtianle.jpg
+image: images/team/wangtianle.jpg
 role: phd
 links:
   home-page: https://louiswng.github.io

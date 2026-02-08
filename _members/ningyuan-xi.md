@@ -1,6 +1,6 @@
 ---
 name: Ningyuan Xi
-image: images/ningyuanxi.jpg
+image: images/team/ningyuanxi.jpg
 role: research-assistant-phd
 links:
   home-page: https://bachozean.github.io/

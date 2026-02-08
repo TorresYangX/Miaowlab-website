@@ -1,6 +1,6 @@
 ---
 name: Ning Miao
-image: images/ningmiao.jpg
+image: images/team/ningmiao.jpg
 role: principal-investigator
 # affiliation: City University of Hong Kong
 # aliases:

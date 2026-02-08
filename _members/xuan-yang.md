@@ -1,6 +1,6 @@
 ---
 name: Xuan Yang
-image: images/xuanyang.jpg
+image: images/team/xuanyang.jpg
 role: phd
 links:
   home-page: https://torresyangx.github.io/
