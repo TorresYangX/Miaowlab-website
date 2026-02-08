@@ -4,7 +4,14 @@
 {% assign svg = "images/logo.svg" | file_exists %}
 {% assign png = "images/logo.png" | file_exists %}
 {% assign jpg = "images/logo.jpg" | file_exists %}
-{% assign logo = svg | default: png | default: jpg | default: nil %}
+{% assign logo_headbar = "images/logo_headbar.png" | file_exists %}
+
+{% if page.url != "/" and logo_headbar %}
+  {% assign logo = logo_headbar %}
+  {% assign svg = nil %}
+{% else %}
+  {% assign logo = svg | default: png | default: jpg | default: nil %}
+{% endif %}
 
 <header
   class="background"
