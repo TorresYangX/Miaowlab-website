@@ -14,9 +14,9 @@ nav:
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
-{% endcomment %}
 
 ## All
+{% endcomment %}
 
 {% include search-box.html %}
 
