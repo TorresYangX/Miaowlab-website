@@ -1,6 +1,6 @@
 ---
 name: Qiyuan Liu
-image: images/photo.jpg
+image: images/team/qiyuanliu.jpg
 role: research-assistant-phd
 links:
   home-page: https://lqy09.github.io/
