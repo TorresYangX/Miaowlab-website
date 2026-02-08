@@ -21,3 +21,36 @@
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+- id: arxiv:2510.01925
+  title: "Enhancing Large Language Model Reasoning with Reward Models: An Analytical Survey"
+  authors: 
+  - Qiyuan Liu
+  - Hao Xu
+  - Xuhong Chen
+  - Wei Chen
+  - Yee Whye Teh
+  - Ning Miao
+  date: 2025-10-03
+  publisher: arXiv
+  link: https://arxiv.org/abs/2510.01925
+  image: images/publication/enhancing large language model reasoning.png       
+
+- id: arxiv:2601.04537
+  title: "Not All Steps are Informative: On the Linearity of LLMs' RLVR Training"
+  authors: 
+  - Tianle Wang
+  - Zhongyuan Wu
+  - Shenghao Jin
+  - Hao Xu
+  - Wei Chen
+  - Ning Miao
+  date: 2026-01-25
+  publisher: arXiv
+  link: https://arxiv.org/abs/2601.04537
+  repo: https://github.com/Miaow-Lab/RLVR-Linearity
+  buttons:
+    - text: Code
+      link: https://github.com/Miaow-Lab/RLVR-Linearity
+  image: images/publication/not all steps are informative.png
+
