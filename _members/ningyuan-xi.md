@@ -1,7 +1,7 @@
 ---
 name: Ningyuan Xi
 image: images/ningyuanxi.jpg
-role: Research Assistant (Incoming PhD Student)
+role: research-assistant-phd
 links:
   home-page: https://bachozean.github.io/
   email: ningyuxi@cityu.edu.hk

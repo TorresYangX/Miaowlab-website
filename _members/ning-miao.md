@@ -1,7 +1,7 @@
 ---
 name: Ning Miao
 image: images/ningmiao.jpg
-role: Principal Investigator
+role: principal-investigator
 # affiliation: City University of Hong Kong
 # aliases:
 #   - J. Smith
