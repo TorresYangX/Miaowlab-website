@@ -15,12 +15,12 @@ Our lab is part of the Department of Data Science and Hong Kong Institute of AI 
   text="ningmiao@cityu.edu.hk"
   link="ningmiao@cityu.edu.hk"
 %}
-{%
+<!-- {%
   include button.html
   type="phone"
   text="(555) 867-5309"
   link="+1-555-867-5309"
-%}
+%} -->
 {%
   include button.html
   type="address"
