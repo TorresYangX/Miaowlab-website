@@ -1,6 +1,6 @@
 ---
 name: Yuxian Jiang
-image: images/team/yuxianjiang.jpeg
+image: images/team/yuxianjiang.jpg
 role: research-assistant-phd
 links:
   home-page: https://scholar.google.com/citations?user=BrM8yHsAAAAJ
