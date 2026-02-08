@@ -28,7 +28,9 @@ Our lab is part of the Department of Data Science and Hong Kong Institute of AI 
   link="https://maps.app.goo.gl/4Dz1ms3KJrGrrfKUA"
 %}
 
-<!-- {% include section.html %}
+
+{% comment %}
+{% include section.html %}
 
 {% capture col1 %}
 
@@ -72,4 +74,5 @@ consectetur adipiscing elit
 sed do eiusmod tempor
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %} -->
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% endcomment %}
