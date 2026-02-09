@@ -17,7 +17,7 @@ Our lab brings together a talented group of graduate students and research assis
 {% include list.html data="members" component="portrait" filter="role == 'research-assistant'" %}
 
 
-
+{% comment %}
 {% include section.html background="images/background.jpg" dark=true %}
 
 Our lab brings together a talented group of graduate students and research assistants with strong foundations in Computer Science and Data Science. We are dedicated to advancing the field of machine reasoning, with a shared focus on Large Language Models, AI for Math, and generative models. If you’re interested in joining this dynamic team, please reach out!
@@ -33,3 +33,4 @@ Our lab brings together a talented group of graduate students and research assis
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+{% endcomment %}
