@@ -1,1 +1,1 @@
-Sitemap: https://torresyangx.github.io/Miaowlab-website/sitemap.xml
+Sitemap: https://miaow-lab.github.io/sitemap.xml
