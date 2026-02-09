@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # TorresYangX's Website
+  # Miaow Lab's Website
 
   Visit **[miaow-lab.github.io](https://miaow-lab.github.io)** 🚀
 
